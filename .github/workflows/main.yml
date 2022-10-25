@@ -14,7 +14,7 @@ jobs:
       - name: 📂 Sync files
         uses: SamKirkland/FTP-Deploy-Action@4.0.0
         with:
-          server: 185.27.134.134
+          server: "teste.handliv.com"
           username: "epiz_32591908"
           password: "2e3S1hHWhDOu92j"
           server-dir: teste.handliv.com/htdocs/
