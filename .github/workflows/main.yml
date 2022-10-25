@@ -17,4 +17,4 @@ jobs:
           server: "teste.handliv.com"
           username: "epiz_32591908"
           password: "2e3S1hHWhDOu92j"
-          server-dir: teste.handliv.com/htdocs/
+          server-dir: /teste.handliv.com/htdocs/
